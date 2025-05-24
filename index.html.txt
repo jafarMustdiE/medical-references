@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Medical Circuit References</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 700px;
+            margin: 40px auto;
+            padding: 0 20px;
+            color: #222;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            text-align: center;
+            color: #004080;
+        }
+        ol {
+            margin-top: 30px;
+        }
+        li {
+            margin-bottom: 20px;
+            font-size: 1.1em;
+        }
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            margin-top: 40px;
+            font-size: 0.9em;
+            color: #666;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Medical Circuit References</h1>
+    <p>Safety Considerations Using Zener Diodes</p>
+    <ol>
+        <li>
+            <strong>Circuit Protection in Medical Devices</strong><br />
+            <a href="https://www.medicaldesignbriefs.com/component/content/article/17281-circuit-protection-critical-to-safeguarding-both-medical-devices-and-patients-health" target="_blank" rel="noopener noreferrer">
+                https://www.medicaldesignbriefs.com/component/content/article/17281-circuit-protection-critical-to-safeguarding-both-medical-devices-and-patients-health
+            </a>
+        </li>
+        <li>
+            <strong>A Practical Guide to IEC 60601-1</strong><br />
+            <a href="https://www.rigelmedical.com/downloads/Rigel-Medical-A-Practical-guide-to-IEC-60601-1.pdf" target="_blank" rel="noopener noreferrer">
+                https://www.rigelmedical.com/downloads/Rigel-Medical-A-Practical-guide-to-IEC-60601-1.pdf
+            </a>
+        </li>
+        <li>
+            <strong>Zener Diodes in Overvoltage Protection</strong><br />
+            <a href="https://www.rs-online.com/designspark/how-does-zener-diode-do-overvoltage-protection-in-circuit" target="_blank" rel="noopener noreferrer">
+                https://www.rs-online.com/designspark/how-does-zener-diode-do-overvoltage-protection-in-circuit
+            </a>
+        </li>
+    </ol>
+    <footer>
+        &copy; 2025 Medical Reference Page
+    </footer>
+</body>
+</html>
